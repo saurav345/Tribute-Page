@@ -10,3 +10,8 @@ CSS
  1. Responsive design for various screen sizes .
   2. Easy-to-read layout .
    3. Simple and clean design .
+## LIVE SHOW :-  https://tribute-page-08.netlify.app/
+ScreenShort:- 
+![Uploading image.png…]()
+![Uploading image.png…]()
+
